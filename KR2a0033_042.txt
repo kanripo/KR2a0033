@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 遼史
-#+DATE: 2015-09-23 09:42:12
-#+PROPERTY: JUAN 42
+#+DATE: 2015-08-24 22:22:11.059332
+#+PROPERTY: ID KR2a0033
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四十二
 <pb:KR2a0033_WYG_042-1a>¶
 欽定四庫全書¶
 　遼史卷四十二¶
@@ -344,6 +346,7 @@
 　亦曰重修大明厯及改授時厯别立司天監存肄之¶
 　每嵗甲子冬至重修其法書在太史院禁莫得聞¶
 　遼史卷四十二¶
+#+PROPERTY: JUAN 卷四十二考證
 <pb:KR2a0033_WYG_042-20a>¶
 　遼史卷四十二考證¶
 大寒明中星度二百八十六驚蟄昬中星度九十七¶
@@ -380,4 +383,3 @@
 　¶
 　¶
 　遼史卷四十二考證¶
-

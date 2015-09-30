@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 遼史
-#+DATE: 2015-09-23 09:42:12
-#+PROPERTY: JUAN 53
+#+DATE: 2015-08-24 22:22:11.259419
+#+PROPERTY: ID KR2a0033
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五十三
 <pb:KR2a0033_WYG_053-1a>¶
 欽定四庫全書¶
 　遼史卷五十三¶
@@ -362,6 +364,7 @@
 　¶
 　¶
 　遼史卷五十三¶
+#+PROPERTY: JUAN 卷五十三考證
 <pb:KR2a0033_WYG_053-21a>¶
 　遼史卷五十三考證¶
 應聖節宋遣使來賀生辰正旦始制此儀　按太宗本¶
@@ -380,4 +383,3 @@
 　幸秦晉長公主第事表志互異他書均無可考謹附¶
 　識之¶
 　遼史卷五十三考證¶
-

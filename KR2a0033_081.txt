@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 遼史
-#+DATE: 2015-09-23 09:42:12
-#+PROPERTY: JUAN 81
+#+DATE: 2015-08-24 22:22:11.782485
+#+PROPERTY: ID KR2a0033
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八十一
 <pb:KR2a0033_WYG_081-1a>¶
 欽定四庫全書¶
 　遼史卷八十一¶
@@ -92,6 +94,7 @@
 　¶
 　¶
 　遼史卷八十一¶
+#+PROPERTY: JUAN 卷八十一考證
 <pb:KR2a0033_WYG_081-6a>¶
 　遼史卷八十一考證¶
 王繼忠傳不知何郡人　按王繼忠係開封人見宋史¶
@@ -110,4 +113,3 @@
 　¶
 　¶
 　遼史卷八十一考證¶
-

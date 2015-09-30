@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 遼史
-#+DATE: 2015-09-23 09:42:12
-#+PROPERTY: JUAN 8
+#+DATE: 2015-08-24 22:22:10.503349
+#+PROPERTY: ID KR2a0033
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八
 <pb:KR2a0033_WYG_008-1a>¶
 欽定四庫全書¶
 　遼史巻八¶
@@ -128,6 +130,7 @@
 　¶
 　¶
 　遼史巻八¶
+#+PROPERTY: JUAN 卷八考證
 <pb:KR2a0033_WYG_008-8a>¶
 　遼史巻八考證¶
 景宗小字明扆　按契丹志作明計以音近而譌也¶
@@ -146,4 +149,3 @@
 　¶
 　¶
 　遼史巻八考證¶
-

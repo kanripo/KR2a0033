@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 遼史
-#+DATE: 2015-09-23 09:42:12
-#+PROPERTY: JUAN 68
+#+DATE: 2015-08-24 22:22:11.542745
+#+PROPERTY: ID KR2a0033
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六十八
 <pb:KR2a0033_WYG_068-1a>¶
 欽定四庫全書¶
 　遼史卷六十八¶
@@ -80,6 +82,7 @@
 　¶
 　¶
 　遼史卷六十八¶
+#+PROPERTY: JUAN 卷六十八考證
 <pb:KR2a0033_WYG_068-27a>¶
 　遼史卷六十八考證¶
 開泰八年幸秦晉長公主第作藏鬮宴　按禮志載藏¶
@@ -98,4 +101,3 @@
 　¶
 　¶
 　遼史卷六十八考證¶
-

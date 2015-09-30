@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 遼史
-#+DATE: 2015-09-23 09:42:12
-#+PROPERTY: JUAN 14
+#+DATE: 2015-08-24 22:22:10.606621
+#+PROPERTY: ID KR2a0033
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十四
 <pb:KR2a0033_WYG_014-1a>¶
 欽定四庫全書¶
 　遼史卷十四¶
@@ -182,6 +184,7 @@
 　¶
 　¶
 　遼史卷十四¶
+#+PROPERTY: JUAN 卷十四考證
 <pb:KR2a0033_WYG_014-11a>¶
 　遼史卷十四考證¶
 聖宗紀五統和十七年秋七月伐宋冬十月癸酉攻遂¶
@@ -200,4 +203,3 @@
 　正旦所遣乃韓國華也此云張若谷與宋史異¶
 　¶
 　遼史卷十四考證¶
-

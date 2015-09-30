@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 遼史
-#+DATE: 2015-09-23 09:42:12
-#+PROPERTY: JUAN 71
+#+DATE: 2015-08-24 22:22:11.601196
+#+PROPERTY: ID KR2a0033
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七十一
 <pb:KR2a0033_WYG_071-1a>¶
 欽定四庫全書¶
 　遼史卷七十一¶
@@ -236,6 +238,7 @@
 　¶
 　¶
 　遼史卷七十一¶
+#+PROPERTY: JUAN 卷七十一考證
 <pb:KR2a0033_WYG_071-14a>¶
 　遼史卷七十一考證　后妃傳¶
 徳祖宣簡皇后蕭氏天顯八年崩　按本紀太祖立尊¶
@@ -254,4 +257,3 @@
 　云夀隆二年封燕國妃此但書燕國妃之妹殊未明¶
 　晰今據改¶
 　遼史卷七十一考證¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 遼史
-#+DATE: 2015-09-23 09:42:12
-#+PROPERTY: JUAN 41
+#+DATE: 2015-08-24 22:22:11.046294
+#+PROPERTY: ID KR2a0033
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四十一
 <pb:KR2a0033_WYG_041-1a>¶
 欽定四庫全書¶
 　遼史卷四十一¶
@@ -236,6 +238,7 @@
 　¶
 　¶
 　遼史卷四十一¶
+#+PROPERTY: JUAN 卷四十一考證
 <pb:KR2a0033_WYG_041-14a>¶
 　遼史卷四十一考證¶
 地理志五唐武徳四年置北恒州　按唐書地理志武¶
@@ -254,4 +257,3 @@
 　¶
 　¶
 　遼史卷四十一考證¶
-

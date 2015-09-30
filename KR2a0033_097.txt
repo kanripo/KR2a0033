@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 遼史
-#+DATE: 2015-09-23 09:42:13
-#+PROPERTY: JUAN 97
+#+DATE: 2015-08-24 22:22:12.126894
+#+PROPERTY: ID KR2a0033
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷九十七
 <pb:KR2a0033_WYG_097-1a>¶
 欽定四庫全書¶
 　遼史卷九十七¶
@@ -110,6 +112,7 @@
 　¶
 　¶
 　遼史卷九十七¶
+#+PROPERTY: JUAN 卷九十七考證
 <pb:KR2a0033_WYG_097-7a>¶
 　遼史卷九十七考證¶
 耶律額特埓傳五年復為西北路招討使討尼都格爾¶
@@ -128,4 +131,3 @@
 　¶
 　¶
 　遼史卷九十七考證¶
-

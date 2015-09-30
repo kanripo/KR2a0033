@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 遼史
-#+DATE: 2015-09-23 09:42:13
-#+PROPERTY: JUAN 114
+#+DATE: 2015-08-24 22:22:12.504231
+#+PROPERTY: ID KR2a0033
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百十四
 <pb:KR2a0033_WYG_114-1a>¶
 欽定四庫全書¶
 　遼史卷一百十四¶
@@ -110,6 +112,7 @@
 　¶
 　¶
 　遼史卷一百十四¶
+#+PROPERTY: JUAN 卷一百十四考證
 <pb:KR2a0033_WYG_114-7a>¶
 　遼史卷一百十四考證¶
 奚和勒博傳明年金兵由居庸闗入和勒博自立　按¶
@@ -128,4 +131,3 @@
 　¶
 　¶
 　遼史卷一百十四考證¶
-

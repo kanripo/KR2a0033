@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 遼史
-#+DATE: 2015-09-23 09:42:13
-#+PROPERTY: JUAN 99
+#+DATE: 2015-08-24 22:22:12.172840
+#+PROPERTY: ID KR2a0033
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷九十九
 <pb:KR2a0033_WYG_099-1a>¶
 欽定四庫全書¶
 　遼史卷九十九¶
@@ -128,6 +130,7 @@
 　¶
 　¶
 　遼史卷九十九¶
+#+PROPERTY: JUAN 卷九十九考證
 <pb:KR2a0033_WYG_099-8a>¶
 　遼史卷九十九考證¶
 蕭巖壽傳出伊遜為中京留守　按中京原本作上京¶
@@ -146,4 +149,3 @@
 　¶
 　¶
 　遼史卷九十九考證¶
-

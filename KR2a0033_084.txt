@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 遼史
-#+DATE: 2015-09-23 09:42:12
-#+PROPERTY: JUAN 84
+#+DATE: 2015-08-24 22:22:11.843191
+#+PROPERTY: ID KR2a0033
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八十四
 <pb:KR2a0033_WYG_084-1a>¶
 欽定四庫全書¶
 　遼史卷八十四¶
@@ -92,6 +94,7 @@
 　¶
 　¶
 　遼史卷八十四¶
+#+PROPERTY: JUAN 卷八十四考證
 <pb:KR2a0033_WYG_084-6a>¶
 　遼史卷八十四考證¶
 蕭斡傳時皇后以父呼斡　按本傳載后為皇太后稱¶
@@ -110,4 +113,3 @@
 　¶
 　¶
 　遼史卷八十四考證¶
-

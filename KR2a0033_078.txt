@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 遼史
-#+DATE: 2015-09-23 09:42:12
-#+PROPERTY: JUAN 78
+#+DATE: 2015-08-24 22:22:11.725049
+#+PROPERTY: ID KR2a0033
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七十八
 <pb:KR2a0033_WYG_078-1a>¶
 欽定四庫全書¶
 　遼史卷七十八¶
@@ -92,6 +94,7 @@
 　¶
 　¶
 　遼史卷七十八¶
+#+PROPERTY: JUAN 卷七十八考證
 <pb:KR2a0033_WYG_078-6a>¶
 　遼史卷七十八考證¶
 蕭哈里傳繼尚綽哈公主　按公主表綽果係太宗女¶
@@ -110,4 +113,3 @@
 　本傳俱同外戚傳公主表及本傳俱作繼先葢繼先¶
 　實嗣思温為後或曽更名故紀載互異¶
 　遼史卷七十八考證¶
-

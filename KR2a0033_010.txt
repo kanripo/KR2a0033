@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 遼史
-#+DATE: 2015-09-23 09:42:12
-#+PROPERTY: JUAN 10
+#+DATE: 2015-08-24 22:22:10.530861
+#+PROPERTY: ID KR2a0033
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十
 <pb:KR2a0033_WYG_010-1a>¶
 欽定四庫全書¶
 　遼史卷十¶
@@ -218,6 +220,7 @@
 　¶
 　¶
 　遼史卷十¶
+#+PROPERTY: JUAN 卷十考證
 <pb:KR2a0033_WYG_010-13a>¶
 　遼史巻十考證¶
 聖宗即位之十二月戊午　按厯象志朔考是年十二¶
@@ -254,4 +257,3 @@
 　統和元年尚越國公主原本訛恒德為懇德今改¶
 統和三年閏九月駐蹕東古山　按遊幸表作東右山¶
 　遼史巻十考證¶
-

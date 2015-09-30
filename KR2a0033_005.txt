@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 遼史
-#+DATE: 2015-09-23 09:42:12
-#+PROPERTY: JUAN 5
+#+DATE: 2015-08-24 22:22:10.472780
+#+PROPERTY: ID KR2a0033
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五
 <pb:KR2a0033_WYG_005-1a>¶
 欽定四庫全書¶
 　遼史巻五¶
@@ -74,6 +76,7 @@
 　¶
 　¶
 　遼史巻五¶
+#+PROPERTY: JUAN 卷五考證
 <pb:KR2a0033_WYG_005-5a>¶
 遼史巻五考證¶
 天禄五年遣燕王徳哷樞宻使高勲冊為大漢神武皇¶
@@ -92,4 +95,3 @@
 　¶
 　¶
 　遼史巻五考證¶
-

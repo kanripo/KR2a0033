@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 遼史
-#+DATE: 2015-09-23 09:42:12
-#+PROPERTY: JUAN 33
+#+DATE: 2015-08-24 22:22:10.919283
+#+PROPERTY: ID KR2a0033
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十三
 <pb:KR2a0033_WYG_033-1a>¶
 欽定四庫全書¶
 　遼史卷三十三¶
@@ -218,6 +220,7 @@
 右十部不能成國附庸於遼時叛時服各有職貢猶唐¶
 人之有羈縻州也¶
 　遼史卷三十三¶
+#+PROPERTY: JUAN 卷三十三考證
 <pb:KR2a0033_WYG_033-13a>¶
 　遼史卷三十三考證　營衛志下¶
 㑹同二年命居烏爾古之地　居原本作以按太宗本¶
@@ -254,4 +257,3 @@
 　¶
 　¶
 　遼史卷三十三考證¶
-

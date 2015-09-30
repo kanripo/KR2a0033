@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 遼史
-#+DATE: 2015-09-23 09:42:12
-#+PROPERTY: JUAN 11
+#+DATE: 2015-08-24 22:22:10.545841
+#+PROPERTY: ID KR2a0033
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十一
 <pb:KR2a0033_WYG_011-1a>¶
 欽定四庫全書¶
 　遼史巻十一¶
@@ -218,6 +220,7 @@
 　¶
 　¶
 　遼史巻十一¶
+#+PROPERTY: JUAN 卷十一考證
 <pb:KR2a0033_WYG_011-13a>¶
 　遼史巻十一考證¶
 聖宗紀二統和四年四月遣敞史勤徳持詔褒美　按¶
@@ -236,4 +239,3 @@
 　¶
 　¶
 　遼史巻十一考證¶
-

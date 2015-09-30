@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 遼史
-#+DATE: 2015-09-23 09:42:12
-#+PROPERTY: JUAN 79
+#+DATE: 2015-08-24 22:22:11.746748
+#+PROPERTY: ID KR2a0033
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七十九
 <pb:KR2a0033_WYG_079-1a>¶
 欽定四庫全書¶
 　遼史卷七十九¶
@@ -110,6 +112,7 @@
 　¶
 　¶
 　遼史卷七十九¶
+#+PROPERTY: JUAN 卷七十九考證
 <pb:KR2a0033_WYG_079-7a>¶
 　遼史卷七十九考證¶
 耶律賢適傳保寧三年為西北路兵馬都部署　按景¶
@@ -128,4 +131,3 @@
 　¶
 　¶
 　遼史卷七十九考證¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 遼史
-#+DATE: 2015-09-23 09:42:12
-#+PROPERTY: JUAN 57
+#+DATE: 2015-08-24 22:22:11.347075
+#+PROPERTY: ID KR2a0033
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五十七
 <pb:KR2a0033_WYG_057-1a>¶
 欽定四庫全書¶
 　遼史卷五十七¶
@@ -92,6 +94,7 @@
 　¶
 　¶
 　遼史卷五十七¶
+#+PROPERTY: JUAN 卷五十七考證
 <pb:KR2a0033_WYG_057-6a>¶
 　遼史卷五十七考證¶
 聖宗開泰十年馳驛取石晉所上玉璽于中京　按本¶
@@ -110,4 +113,3 @@
 　¶
 　¶
 　遼史卷五十七考證¶
-

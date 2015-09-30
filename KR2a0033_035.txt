@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 遼史
-#+DATE: 2015-09-23 09:42:12
-#+PROPERTY: JUAN 35
+#+DATE: 2015-08-24 22:22:10.945037
+#+PROPERTY: ID KR2a0033
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十五
 <pb:KR2a0033_WYG_035-1a>¶
 欽定四庫全書¶
 　遼史卷三十五¶
@@ -236,6 +238,7 @@
 　¶
 　¶
 　遼史卷三十五¶
+#+PROPERTY: JUAN 卷三十五考證
 <pb:KR2a0033_WYG_035-14a>¶
 　遼史卷三十五考證¶
 大帳皮室軍三十萬騎舒新軍二十萬騎　按遼志皮¶
@@ -254,4 +257,3 @@
 　¶
 　¶
 　遼史卷三十五考證¶
-

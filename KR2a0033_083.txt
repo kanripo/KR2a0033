@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 遼史
-#+DATE: 2015-09-23 09:42:12
-#+PROPERTY: JUAN 83
+#+DATE: 2015-08-24 22:22:11.826400
+#+PROPERTY: ID KR2a0033
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八十三
 <pb:KR2a0033_WYG_083-1a>¶
 欽定四庫全書¶
 　遼史卷八十三¶
@@ -146,6 +148,7 @@
 　¶
 　¶
 　遼史卷八十三¶
+#+PROPERTY: JUAN 卷八十三考證
 <pb:KR2a0033_WYG_083-9a>¶
 　遼史卷八十三考證¶
 耶律休格傳休格二子　按聖宗本紀統和二十一年¶
@@ -164,4 +167,3 @@
 　¶
 　¶
 　遼史卷八十三考證¶
-

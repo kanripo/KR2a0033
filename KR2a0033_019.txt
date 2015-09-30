@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 遼史
-#+DATE: 2015-09-23 09:42:12
-#+PROPERTY: JUAN 19
+#+DATE: 2015-08-24 22:22:10.678916
+#+PROPERTY: ID KR2a0033
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十九
 <pb:KR2a0033_WYG_019-1a>¶
 欽定四庫全書¶
 　遼史卷十九¶
@@ -182,4 +184,3 @@
 己亥渤海部以契丹户例通括軍馬乙巳賑南京貧民¶
 十二月壬申曲赦徒以下罪是日為聖宗在時生辰¶
 　遼史卷十九¶
-

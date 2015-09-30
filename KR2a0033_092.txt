@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 遼史
-#+DATE: 2015-09-23 09:42:13
-#+PROPERTY: JUAN 92
+#+DATE: 2015-08-24 22:22:12.028630
+#+PROPERTY: ID KR2a0033
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷九十二
 <pb:KR2a0033_WYG_092-1a>¶
 欽定四庫全書¶
 　遼史卷九十二¶
@@ -92,6 +94,7 @@
 　¶
 　¶
 　遼史卷九十二¶
+#+PROPERTY: JUAN 卷九十二考證
 <pb:KR2a0033_WYG_092-6a>¶
 　遼史卷九十二考證¶
 耶律古雲傳二十一年古雲改天成軍節度使　按聖¶
@@ -110,4 +113,3 @@
 　¶
 　¶
 　遼史卷九十二考證¶
-

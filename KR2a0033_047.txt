@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 遼史
-#+DATE: 2015-09-23 09:42:12
-#+PROPERTY: JUAN 47
+#+DATE: 2015-08-24 22:22:11.146145
+#+PROPERTY: ID KR2a0033
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四十七
 <pb:KR2a0033_WYG_047-1a>¶
 欽定四庫全書¶
 　遼史卷四十七¶
@@ -470,6 +472,7 @@
 　¶
 　¶
 　遼史卷四十七¶
+#+PROPERTY: JUAN 卷四十七考證
 <pb:KR2a0033_WYG_047-27a>¶
 　遼史卷四十七考證¶
 聖宗太平六年見左丞相張儉　按六年原本作四年¶
@@ -506,4 +509,3 @@
 　雍中儼甫登進士第耳志當有誤¶
 　¶
 　遼史卷四十七考證¶
-

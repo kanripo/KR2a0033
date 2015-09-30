@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 遼史
-#+DATE: 2015-09-23 09:42:13
-#+PROPERTY: JUAN 91
+#+DATE: 2015-08-24 22:22:12.003539
+#+PROPERTY: ID KR2a0033
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷九十一
 <pb:KR2a0033_WYG_091-1a>¶
 欽定四庫全書¶
 　遼史卷九十一¶
@@ -92,6 +94,7 @@
 為宰相佐在鎮俱以獄空聞之數人者豈特甲胄之士¶
 亦李牧程不識之亞歟¶
 　遼史卷九十一¶
+#+PROPERTY: JUAN 卷九十一考證
 <pb:KR2a0033_WYG_091-6a>¶
 　遼史卷九十一考證¶
 耶律唐古傳歴壕州刺史　按壕州刻本舊作豪州考¶
@@ -110,4 +113,3 @@
 　¶
 　¶
 　遼史卷九十一考證¶
-

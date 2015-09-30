@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 遼史
-#+DATE: 2015-09-23 09:42:13
-#+PROPERTY: JUAN 102
+#+DATE: 2015-08-24 22:22:12.234215
+#+PROPERTY: ID KR2a0033
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百二
 <pb:KR2a0033_WYG_102-1a>¶
 欽定四庫全書¶
 　遼史卷一百二¶
@@ -110,6 +112,7 @@
 　¶
 　¶
 　遼史卷一百二¶
+#+PROPERTY: JUAN 卷一百二考證
 <pb:KR2a0033_WYG_102-7a>¶
 　遼史卷一百二考證¶
 蕭奉先傳女直乃濳渡混同江乘我師未備來襲　按¶
@@ -128,4 +131,3 @@
 　¶
 　¶
 　遼史卷一百二考證¶
-

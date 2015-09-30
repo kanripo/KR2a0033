@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 遼史
-#+DATE: 2015-09-23 09:42:12
-#+PROPERTY: JUAN 61
+#+DATE: 2015-08-24 22:22:11.421158
+#+PROPERTY: ID KR2a0033
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六十一
 <pb:KR2a0033_WYG_061-1a>¶
 欽定四庫全書¶
 　遼史卷六十一¶
@@ -146,6 +148,7 @@
 臣曰制條中有遺闕及輕重失中者其條上之議増改¶
 焉¶
 　遼史卷六十一¶
+#+PROPERTY: JUAN 卷六十一考證
 <pb:KR2a0033_WYG_061-9a>¶
 　遼史卷六十一考證¶
 刑法志上有遼欽恤之意昉見于此　按太祖紀七年¶
@@ -164,4 +167,3 @@
 　¶
 　¶
 　遼史卷六十一考證¶
-

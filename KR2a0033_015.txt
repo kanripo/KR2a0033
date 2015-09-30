@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 遼史
-#+DATE: 2015-09-23 09:42:12
-#+PROPERTY: JUAN 15
+#+DATE: 2015-08-24 22:22:10.626458
+#+PROPERTY: ID KR2a0033
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十五
 <pb:KR2a0033_WYG_015-1a>¶
 欽定四庫全書¶
 　遼史卷十五¶
@@ -272,6 +274,7 @@
 　¶
 　¶
 　遼史卷十五¶
+#+PROPERTY: JUAN 卷十五考證
 <pb:KR2a0033_WYG_015-16a>¶
 　遼史卷十五考證¶
 聖宗紀六開㤗元年八月己未髙麗王詢遣田拱之奉¶
@@ -290,4 +293,3 @@
 　¶
 　¶
 　遼史卷十五考證¶
-

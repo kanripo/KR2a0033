@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 遼史
-#+DATE: 2015-09-23 09:42:13
-#+PROPERTY: JUAN 106
+#+DATE: 2015-08-24 22:22:12.312102
+#+PROPERTY: ID KR2a0033
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百六
 <pb:KR2a0033_WYG_106-1a>¶
 欽定四庫全書¶
 　遼史卷一百六¶
@@ -56,6 +58,7 @@
 　¶
 　¶
 　遼史卷一百六¶
+#+PROPERTY: JUAN 卷一百六考證
 <pb:KR2a0033_WYG_106-4a>¶
 　遼史卷一百六考證¶
 耶律官努傳乾統間卒　按原本書官努卒官努二字¶
@@ -74,4 +77,3 @@
 　¶
 　¶
 　遼史卷一百六考證¶
-

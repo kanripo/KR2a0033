@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 遼史
-#+DATE: 2015-09-23 09:42:12
-#+PROPERTY: JUAN 73
+#+DATE: 2015-08-24 22:22:11.637113
+#+PROPERTY: ID KR2a0033
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七十三
 <pb:KR2a0033_WYG_073-1a>¶
 欽定四庫全書¶
 　遼史卷七十三¶
@@ -182,6 +184,7 @@
 　¶
 　¶
 　遼史卷七十三¶
+#+PROPERTY: JUAN 卷七十三考證
 <pb:KR2a0033_WYG_073-11a>¶
 　遼史卷七十三考證¶
 耶律赫嚕傳拜赫嚕為阿勒坦裕悦　阿勒坦原本作¶
@@ -200,4 +203,3 @@
 　¶
 　¶
 　遼史卷七十三考證¶
-

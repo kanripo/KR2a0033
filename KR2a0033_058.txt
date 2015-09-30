@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 遼史
-#+DATE: 2015-09-23 09:42:12
-#+PROPERTY: JUAN 58
+#+DATE: 2015-08-24 22:22:11.368661
+#+PROPERTY: ID KR2a0033
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五十八
 <pb:KR2a0033_WYG_058-1a>¶
 欽定四庫全書¶
 　遼史卷五十八¶
@@ -110,6 +112,7 @@
 　¶
 　¶
 　遼史卷五十八¶
+#+PROPERTY: JUAN 卷五十八考證
 <pb:KR2a0033_WYG_058-7a>¶
 　遼史卷五十八考證¶
 馳驅五京之間　按地理志遼太宗以皇都為上京升¶
@@ -128,4 +131,3 @@
 　¶
 　¶
 　遼史卷五十八考證¶
-

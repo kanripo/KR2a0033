@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 遼史
-#+DATE: 2015-09-23 09:42:12
-#+PROPERTY: JUAN 40
+#+DATE: 2015-08-24 22:22:11.034190
+#+PROPERTY: ID KR2a0033
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四十
 <pb:KR2a0033_WYG_040-1a>¶
 欽定四庫全書¶
 　遼史卷四十¶
@@ -218,6 +220,7 @@
 　¶
 　¶
 　遼史卷四十¶
+#+PROPERTY: JUAN 卷四十考證
 <pb:KR2a0033_WYG_040-13a>¶
 　遼史卷四十考證¶
 　地理志四宛平縣本晉幽都縣　按清類天文¶
@@ -236,4 +239,3 @@
 　¶
 　¶
 　遼史卷四十考證¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 遼史
-#+DATE: 2015-09-23 09:42:12
-#+PROPERTY: JUAN 74
+#+DATE: 2015-08-24 22:22:11.657526
+#+PROPERTY: ID KR2a0033
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七十四
 <pb:KR2a0033_WYG_074-1a>¶
 欽定四庫全書¶
 　遼史卷七十四¶
@@ -128,6 +130,7 @@
 　¶
 　¶
 　遼史卷七十四¶
+#+PROPERTY: JUAN 卷七十四考證
 <pb:KR2a0033_WYG_074-8a>¶
 　遼史卷七十四考證¶
 康黙記傳神冊五年為皇都伊勒希巴　按太祖紀天¶
@@ -164,4 +167,3 @@
 　¶
 　¶
 　遼史卷七十四考證¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 遼史
-#+DATE: 2015-09-23 09:42:13
-#+PROPERTY: JUAN 115
+#+DATE: 2015-08-24 22:22:12.528447
+#+PROPERTY: ID KR2a0033
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百十五
 <pb:KR2a0033_WYG_115-1a>¶
 欽定四庫全書¶
 　遼史卷一百十五¶
@@ -254,6 +256,7 @@
 　¶
 　¶
 　遼史卷一百十五¶
+#+PROPERTY: JUAN 卷一百十五考證
 <pb:KR2a0033_WYG_115-15a>¶
 　遼史卷一百十五考證¶
 高麗傳自太祖皇帝神冊間高麗遣使進寶劍　按遼¶
@@ -308,4 +311,3 @@
 　¶
 　¶
 　遼史卷一百十五考證¶
-

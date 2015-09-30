@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 遼史
-#+DATE: 2015-09-23 09:42:12
-#+PROPERTY: JUAN 4
+#+DATE: 2015-08-24 22:22:10.452622
+#+PROPERTY: ID KR2a0033
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四
 <pb:KR2a0033_WYG_004-1a>¶
 欽定四庫全書¶
 　遼史卷四¶
@@ -380,6 +382,7 @@
 　¶
 　¶
 　遼史巻四¶
+#+PROPERTY: JUAN 卷四考證
 <pb:KR2a0033_WYG_004-22a>¶
 　遼史卷四考證¶
 㑹同元年二月丙午　丙午原本作丙申按丙申應在¶
@@ -452,4 +455,3 @@
 　¶
 　¶
 　遼史巻四考證¶
-

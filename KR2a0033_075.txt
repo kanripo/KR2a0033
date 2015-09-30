@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 遼史
-#+DATE: 2015-09-23 09:42:12
-#+PROPERTY: JUAN 75
+#+DATE: 2015-08-24 22:22:11.672875
+#+PROPERTY: ID KR2a0033
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七十五
 <pb:KR2a0033_WYG_075-1a>¶
 欽定四庫全書¶
 　遼史卷七十五¶
@@ -146,6 +148,7 @@
 　¶
 　¶
 　遼史卷七十五¶
+#+PROPERTY: JUAN 卷七十五考證
 <pb:KR2a0033_WYG_075-9a>¶
 遼史卷七十五考證¶
 王郁傳郁兄都囚父自爲留後帝遣郁討之至定州都¶
@@ -164,4 +167,3 @@
 　¶
 　¶
 　遼史卷七十五考證¶
-
